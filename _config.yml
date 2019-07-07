@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Suparnan Vijayaraghavan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "Professional Portfolio"
   location         : "London, United Kingdom"
   email            :
