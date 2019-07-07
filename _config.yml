@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: sv16@ic.ac.uk
+      url: "sv16@ic.ac.uk"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
