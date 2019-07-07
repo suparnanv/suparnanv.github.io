@@ -1,6 +1,7 @@
 title: "About"
 permalink: /about/
-
+header:
+	image: "/Images/Header.JPG"
 ---
 
 If one change is constant, it's technology. 
